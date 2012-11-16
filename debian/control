@@ -10,7 +10,7 @@ Vcs-Browser: https://github.com/argus-authz/argus-pdp-pep-common
 
 Package: libargus-pdp-pep-common-java
 Architecture: all
-Depends: libargus-pep-common-java, ${java:Depends}, ${misc:Depends}
+Depends: libargus-pep-common-java, libcanl-java, ${java:Depends}, ${misc:Depends}
 Recommends: ${java:Recommends}
 Description: Argus PDP and PEP Server shared library
  The Argus Authorization Service renders consistent authorization 
