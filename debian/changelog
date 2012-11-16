@@ -1,3 +1,9 @@
+argus-pdp-pep-common (1.4.0-1) unstable; urgency=low
+
+  * Upstream release 1.4.0 for EMI-3.
+
+ -- Valery Tschopp <valery.tschopp@switch.ch>  Fri, 16 Nov 2012 13:54:35 +0100
+
 argus-pdp-pep-common (1.3.2-1) unstable; urgency=low
 
   * Initial release for Debian (Closes: #23482)
