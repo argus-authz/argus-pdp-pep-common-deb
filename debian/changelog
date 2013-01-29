@@ -1,6 +1,12 @@
+argus-pdp-pep-common (1.4.0-2) unstable; urgency=low
+
+  * Upstream release 1.4.0 for EMI-3 (RC2).
+
+ -- Valery Tschopp <valery.tschopp@switch.ch>  Tue, 29 Jan 2013 10:59:27 +0100
+
 argus-pdp-pep-common (1.4.0-1) unstable; urgency=low
 
-  * Upstream release 1.4.0 for EMI-3.
+  * Upstream release 1.4.0 for EMI-3 (RC1).
 
  -- Valery Tschopp <valery.tschopp@switch.ch>  Fri, 16 Nov 2012 13:54:35 +0100
 
